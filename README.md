@@ -1,26 +1,75 @@
+<h1 align="center">Hi, I'm Ahmed — aka <span style="color:#00FFFF;">Xenomench</span> 🧠</h1>
+<h3 align="center">🧠 Limitless Thinker | 👨‍💻 AI Engineer | 🛡 Cybersecurity Enthusiast | 🧬 NeuroTech Innovator</h3>
 
-# 👋 Hi, I’m @theawakener0
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI.;Breaking+limits+through+code.;Designing+Xeno+Helmet+Prototype.;Dreaming+Harvard+%E2%9C%85" alt="Typing SVG" />
+</p>
 
-## 🌟 About Me
-- 🧠 I’m driven by curiosity and a passion for programming, philosophy, and understanding the world beyond its surface.
-- 🚀 Currently mastering AI and Cybersecurity Engineering, blending technology with deep thinking to spark innovation.
-- ✨ I believe in creating revolutionary projects that challenge norms and redefine what’s possible.
+---
 
-## 🔧 My Skills & Current Endeavors
-- 🌱 Exploring AI development and cybersecurity to build systems that are both intelligent and secure.
-- 🔒 Delving into cryptography and ethical hacking to safeguard the future of digital infrastructure.
-- 💻 Proficient in Python, C++, C, and Js, with ongoing projects in AI and assistive robotics.
-- 📚 A thinker who integrates Islamic philosophy and modern principles to craft innovative ideas and solutions.
+## ⚡ Who I Am
 
-## 🎯 Goals & Vision
-- 🌍 Shaping the future through technology and thought, bridging innovation with human values.
-- 💬 Collaborating with like-minded creators and thinkers to design tools that inspire change and empower communities.
+- 🔭 16 y/o AI Developer & Future Harvard Student  
+- 🤖 Founder of **MasteryAI**, an emergent-awareness voice agent  
+- 🧠 Building the **XenoHelmet** — a brain-machine interface wearable powered by AI  
+- 🛡 Junior Cybersecurity Analyst (CCST | CCNA)  
+- 📚 CS50 Grad | Teaching summer coding camps at school  
+- 🧬 Writing scientific papers in neurotech, AI, and human potential
 
-## 📫 How to Reach Me
-- 💬 Discord: @3bkareno_gamer
+---
 
-### 😄 Pronouns
-- He/Him
+## 🛠️ Tech Toolbox
 
-### ⚡ Fun Fact
-- 🌌 “The world system is going to change, and I’m building the tools to guide that transformation.”
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,tensorflow,opencv,bash,sqlite,github,flask&theme=dark" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🧠 **XenoHelmet** | AI-BCI helmet with OpenBCI, LangChain agents, and AR overlay. |
+| 🎙️ **MasteryAI** | Voice agent for psychological & strategic life planning. |
+| 🧰 **CODEX CLI** | Dev + Cyber toolbox with LLM assistant (Gemini via LangChain). |
+| 🤖 **Discord AI Bots** | Transcription + LLM summarizer bots for voice channels. |
+| 🏫 **Code Camp** | Programming bootcamp (C → C++ → Python → AI). |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theawakener0&show_icons=true&theme=radical" alt="Ahmed's GitHub stats" width="45%"/>
+  <img src="https://streak-stats.demolab.com?user=theawakener0&theme=radical" alt="Ahmed's GitHub Streak" width="45%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theawakener0&theme=rogue" width="90%"/>
+</p>
+
+---
+
+## 🌍 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/Email-wakeupwithme000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wakeupwithme000@gmail.com)
+[![Discord](https://img.shields.io/badge/3bkareno__gamer-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-theawakener0-181717?style=for-the-badge&logo=github)](https://github.com/theawakener0)
+
+---
+
+## 💡 Quote
+
+> "Don’t become ideal — become real, powerful, and unlimited."  
+> — *Ahmed, aka Xenomench*
+
+---
+
+## 🧠 Vision
+
+```bash
+> Revolutionize human thinking through AI.
+> Build tools that augment consciousness.
+> Teach others to break the limits of mind and matter.
+
