@@ -61,7 +61,7 @@
 
 ## 💡 Quote
 
-> "Don’t become ideal — become real, powerful, and unlimited."  
+> "What limits people is their way of thinking and their perspective on reality. If their view is materialistic, their limits are small. But if they see beyond the material and even beyond the soul, they become unlimited."  
 > — *Ahmed, aka Xenomench*
 
 ---
