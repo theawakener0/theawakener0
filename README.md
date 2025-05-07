@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmed — aka <span style="color:#00FFFF;">Xenomench</span> 🧠</h1>
+<h1 align="center">Hi, I'm Ahmed — <span style="color:#00FFFF;">Xenomench</span> 🧠</h1>
 <h3 align="center">🧠 Limitless Thinker | 👨‍💻 AI Engineer | 🛡 Cybersecurity Enthusiast | 🧬 NeuroTech Innovator</h3>
 
 <p align="center">
@@ -51,6 +51,13 @@
 
 ---
 
+## 🧠 Coding Platforms
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-theawakener0-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/theawakener0/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-wakeupwithme000-1f8acb?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/wakeupwithme000)
+
+---
+
 ## 🌍 Let's Connect
 
 [![Gmail](https://img.shields.io/badge/Email-wakeupwithme000@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wakeupwithme000@gmail.com)
@@ -62,7 +69,7 @@
 ## 💡 Quote
 
 > "What limits people is their way of thinking and their perspective on reality. If their view is materialistic, their limits are small. But if they see beyond the material and even beyond the soul, they become unlimited."  
-> — *Ahmed, aka Xenomench*
+> — *Ahmed (Xenomench)*
 
 ---
 
