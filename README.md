@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed — <span style="color:#00FFFF;">Xenomench</span> 🧠</h1>
-<h3 align="center">🧠 Limitless Thinker | 👨‍💻 AI Engineer | 🛡 Cybersecurity Enthusiast | 🧬 NeuroTech Innovator</h3>
+<h3 align="center">🧠 Limitless Thinker | 👨‍💻 AI Engineer | 🛡 Cybersecurity Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI.;Breaking+limits+through+code.;Designing+Xeno+Helmet+Prototype.;Dreaming+Harvard+%E2%9C%85" alt="Typing SVG" />
