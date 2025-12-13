@@ -23,6 +23,15 @@
 
 ---
 
+## 👀 Current Projects
+
+- **[XShell](https://github.com/theawakener0/XShell)** — A custom shell focused on control, extensibility, and low-level system interaction.
+- **[TraceBack](https://github.com/theawakener0/TraceBack)** — A neovim plugin that helps control the timeline of your file.
+- **[VictoriaLang](https://github.com/theawakener0/VictoriaLang)** — An artistic, modern programming language designed for learning.
+- **[OpenEye](https://github.com/theawakener0/OpenEye)** — An AI framework designed for optimising SLMs on-device.
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
