@@ -10,11 +10,8 @@
 ## ⚡ Who I Am
 
 - 🔭 16 y/o AI Developer & Future Harvard Student  
-- 🤖 Founder of **MasteryAI**, an emergent-awareness voice agent  
-- 🧠 Building the **XenoHelmet** — a brain-machine interface wearable powered by AI  
 - 🛡 Junior Cybersecurity Analyst (CCST | CCNA)  
-- 📚 CS50 Grad | Teaching summer coding camps at school  
-- 🧬 Writing scientific papers in neurotech, AI, and human potential
+- 🧬 Writing scientific papers in AI frameworks
 
 ---
 
@@ -23,18 +20,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,go,lua,tensorflow,opencv,bash,sqlite,github,flask,django&theme=dark" />
 </p>
-
----
-
-## 📌 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| 🧠 **XenoHelmet** | AI-BCI helmet with OpenBCI, LangChain agents, and AR overlay. |
-| 🎙️ **MasteryAI** | Voice agent for psychological & strategic life planning. |
-| 🧰 **CODEX CLI** | Dev + Cyber toolbox with LLM assistant (Gemini via LangChain). |
-| 🤖 **Discord AI Bots** | Transcription + LLM summarizer bots for voice channels. |
-| 🏫 **Code Camp** | Programming bootcamp (C → C++ → Python → AI). |
 
 ---
 
