@@ -18,7 +18,7 @@
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,go,lua,tensorflow,opencv,bash,sqlite,github,flask,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,html,css,js,ts,go,rs,lua,tensorflow,opencv,bash,sqlite,github,flask,django&theme=dark" />
 </p>
 
 ---
