@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ahmed — <span style="color:#00FFFF;">Xenomench</span> 🧠</h1>
-<h3 align="center">🧠 Limitless Thinker | 👨‍💻 AI Engineer | 🛡 Cybersecurity Enthusiast</h3>
+<h3 align="center">🧠 Limitless Thinker | 👨‍💻 AI Engineer | 🛡 System Engineer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Building+the+future+with+AI.;Breaking+limits+through+code.;Designing+Xeno+Helmet+Prototype.;Dreaming+Harvard+%E2%9C%85" alt="Typing SVG" />
@@ -29,6 +29,7 @@
 - **[TraceBack](https://github.com/theawakener0/TraceBack)** — A neovim plugin that helps control the timeline of your file.
 - **[VictoriaLang](https://github.com/theawakener0/VictoriaLang)** — An artistic, modern programming language designed for learning.
 - **[OpenEye](https://github.com/theawakener0/OpenEye)** — An AI framework designed for optimising SLMs on-device.
+- **[Oxide-rs](https://github.com/theawakener0/oxide-rs)** — A high-performance, memory-safe, and lightweight LLM inference engine written in pure Rust. 
 
 ---
 
