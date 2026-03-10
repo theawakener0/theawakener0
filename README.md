@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ahmed — <span style="color:#00FFFF;">Xenomench</span> 🧠</h1>
+<h1 align="center">Hi, I'm Ahmed Khaled </h1>
 <h3 align="center">🧠 Limitless Thinker | 👨‍💻 AI Engineer | 🛡 System Engineer</h3>
 
 <p align="center">
@@ -63,8 +63,7 @@
 
 ## 💡 Quote
 
-> "What limits people is their way of thinking and their perspective on reality. If their view is materialistic, their limits are small. But if they see beyond the material and even beyond the soul, they become unlimited."  
-> — *Ahmed (Xenomench)*
+> "What limits people is their way of thinking and their perspective on reality. If their view is materialistic, their limits are small. But if they see beyond the material and even beyond the soul, they become unlimited."
 
 ---
 
