@@ -67,10 +67,4 @@
 
 ---
 
-## 🧠 Vision
-
-```bash
-> Revolutionize human thinking through AI.
-> Build tools that augment consciousness.
-> Teach others to break the limits of mind and matter.
 
