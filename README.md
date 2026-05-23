@@ -9,7 +9,7 @@
 
 ## ⚡ Who I Am
 
-- 🔭 16 y/o AI Developer & Future Harvard Student  
+- 🔭 17 y/o AI Developer & Future Harvard Student  
 - 🛡 Junior Cybersecurity Analyst (CCST | CCNA)  
 - 🧬 Writing scientific papers in AI frameworks
 
